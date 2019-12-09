@@ -1,0 +1,19 @@
+{
+  "name": "@danistc/holygrail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Danistc@github.com/Danistc/holygrail.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danistc/holygrail/issues"
+  },
+  "homepage": "https://github.com/Danistc/holygrail#readme"
+}
